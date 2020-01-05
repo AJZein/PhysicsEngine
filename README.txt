@@ -1,0 +1,2 @@
+A set of scripts which creates a set of n-sided simple polygons and computes collisions between them. An animation is created to from the resulting motion.
+To run the animation simply run animate.py. Depends on numpy and matplotlib
